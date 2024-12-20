@@ -133,6 +133,7 @@ nav ul li a:hover{
   background: #fff;
   box-shadow: 0 0 10px #fff;
   color: #333;
+  transform:rotate(360deg);
 }
 
 
